@@ -1,4 +1,4 @@
-package com.subOne.kecyloak_dto;
+package com.subOne.keycloak_dto;
 
 import java.util.UUID;
 
